@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rakib Game Launcher</string>
+    <string name="title_launcher">RAKIB GAME LAUNCHER</string>
+    <string name="subtitle_target">TARGET: FREE FIRE MAX</string>
+    <string name="btn_launch_game">LAUNCH FREE FIRE MAX</string>
+    <string name="fps_mode_title">120 FPS Booster Mode</string>
+    <string name="fps_mode_desc">Unlock 120Hz display refresh synchronization and frame pacing UI overlay</string>
+    <string name="lag_fix_title">Ultra Lag Fix Engine</string>
+    <string name="lag_fix_desc">Safe memory trim, touch latency calibration and network priority boost</string>
+    <string name="status_installed">Game Detected (Installed)</string>
+    <string name="status_not_installed">Not Installed — Tap to install</string>
+    <string name="anti_cheat_notice">100% Safe UI Optimizer: Compliant with anti-cheat policy. Does NOT modify game files or inject code.</string>
+</resources>

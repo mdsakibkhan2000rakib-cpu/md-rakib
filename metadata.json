@@ -1,0 +1,6 @@
+{
+  "name": "Rakib Game Launcher",
+  "description": "High performance gaming launcher for Free Fire MAX featuring safe 120 FPS display mode, latency optimization, and custom gaming HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
